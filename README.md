@@ -1,7 +1,8 @@
 Hi 👋 My name is Pedro Franco
 =============================
 
-Back-End Developer for 8 years, I started working with .NET Framework 4.5 and ASP .NET. Today I work with .NET Core <3. Knowledge in technologies: Swagger, Entity Framework Core, Docker, Kubernetes, RabbitMQ, Hangfire, Azure Storage, Azure API Management, Azure SQL Server, Microservices, Azure Functions, DDD, Azure DevOps
+Back-End Developer for 8 years, I started working with .NET Framework 4.5 and ASP .NET. Today I work with .NET Core <3. 
+Knowledge in technologies: Swagger, Entity Framework Core, Docker, Kubernetes, RabbitMQ, Hangfire, Azure Storage, Azure API Management, Azure SQL Server, Microservices, Azure Functions, DDD, Azure DevOps
 
 * 🌍  I'm based in Goiânia, Goias - Brasil
 * ✉️  You can contact me at [pedroh.franco@outlook.com](mailto:pedroh.franco@outlook.com)
