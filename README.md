@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi 👋 My name is Pedro Franco
+=============================
 
-<!--
-**devpedrofranco/devpedrofranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-End Developer for 8 years, I started working with .NET Framework 4.5 and ASP .NET. Today I work with .NET Core <3. Knowledge in technologies: Swagger, Entity Framework Core, Docker, Kubernetes, RabbitMQ, Hangfire, Azure Storage, Azure API Management, Azure SQL Server, Microservices, Azure Functions, DDD, Azure DevOps
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Goiânia, Goias - Brasil
+* ✉️  You can contact me at [pedroh.franco@outlook.com](mailto:pedroh.franco@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/devpedrofranco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/devpedrofranco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/devpedrofranco"><img src="https://github-readme-stats.vercel.app/api?username=devpedrofranco&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devpedrofranco's GitHub stats" /></a>
+
+<a href="http://www.github.com/devpedrofranco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devpedrofranco&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/devpedrofranco" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrofranco&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
