@@ -13,7 +13,7 @@ Back-End Developer for 8 years, I started working with .NET Framework 4.5 and AS
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git"/></a>
 <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="36" height="36" alt="Kubernetes"/></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker"/></a>
+<a href="https://www.docker.com/" alt="Docker"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36"/></a>
 </p>
 
 
